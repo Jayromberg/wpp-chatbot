@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Jayromberg/wpp-chatbot#readme",
   "devDependencies": {
     "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "@wppconnect-team/wppconnect": "^1.20.0"
   }
 }
